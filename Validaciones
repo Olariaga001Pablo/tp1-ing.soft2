@@ -1,0 +1,23 @@
+1-	Código de Producto:
+Validación de formato: El código de producto seguirá un formato nemotécnico que representa ciertas características del producto, como categoría, color, talla, etc. Estara compuesto por (Dos primeras letras del tipo de prenda-dos primeras letras del color-Talle) Por ejemplo: "CA-NE-XS" para una camisa negra de talla extra pequeña.
+Duplicados: Se verificará si el código ingresado ya existe en la base de datos para evitar duplicados y garantizar la unicidad de los productos.
+2-	Nombre de Producto:
+Obligatorio: Se requerirá que se ingrese un nombre para identificar el producto.
+Longitud máxima: Se limitará a 100 caracteres para evitar entradas excesivamente largas que puedan afectar el diseño de la interfaz o la legibilidad de los informes.
+3-	Descripción del Producto:
+Opcional: No es necesario que se ingrese una descripción, pero podría ser útil para proporcionar más información sobre el producto.
+4-	Stock Inicial:
+Obligatorio: Se asegurará de que se ingrese una cantidad inicial de stock.
+Tipo de dato: Se verificará que se ingrese un número entero positivo para el stock.
+5-	Punto de Pedido:
+Obligatorio: Se garantizará que se establezca un punto de pedido para controlar cuándo se necesita reabastecer el stock.
+Tipo de dato: Se verificará que se ingrese un número entero positivo para el punto de pedido.
+6-	Fecha de Compra:
+Obligatoria: Se registrará la fecha en que se realizó la compra del producto.
+Formato válido: Se verificará que la fecha ingresada siga un formato específico (YYYY-MM-DD) para evitar errores de entrada.
+7-	Código de Proveedor:
+Validación de existencia: Se verificará si el código de proveedor ingresado corresponde a un proveedor existente en la base de datos.
+Opcional: Dependerá de si se necesita asociar un proveedor específico al producto.
+8-	Precio de Compra:
+Obligatorio: Se registrará el precio al que se adquirió el producto.
+Tipo de dato: Se verificará que se ingrese un número decimal positivo para el precio.
