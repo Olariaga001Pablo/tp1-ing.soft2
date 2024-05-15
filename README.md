@@ -1,8 +1,8 @@
 ﻿# tp1-ing.soft2
 # link figma
-https://www.figma.com/file/nj8dRYUc8gTOi9fQU0j4Mb/Figma-basics?type=design&node-id=601%3A10&mode=design&t=kvnqcob7rJFsQZGS-1
+https://www.figma.com/design/d9Bf4i17ujE0l53ioGOWkL/Untitled?node-id=0-1&t=RnLq4tYlIQJYVaQz-0
 
 # link excalidraw
-https://excalidraw.com/#json=VOIE9-gxs5LZbwlrgxmGa,ia03uzKyeYomSGZPS5fHtA
+https://excalidraw.com/#room=ed1b566b23456b6b006e,OIg3NkYgjWXsMyNKKJ2e_w
 
 ![image](https://github.com/Olariaga001Pablo/tp1-ing.soft2/assets/162990497/9bcc834a-9eff-441a-be56-f16aa5dd042d)
